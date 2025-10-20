@@ -1,8 +1,11 @@
 # Hey, I'm Liz
 
 ## About Me
+Hey, I'm Liz! I am a gameplay programmer and I love to play and make games!
 
 ## Projects
+- [Realm Runner](https://store.steampowered.com/app/3658800/Realm_Runner/): Fast-paced 3D action platformer where you fly through levels at gravity-defying speeds.
+- [OverTime](https://lizroii.itch.io/overtime): 
 
 ## Contact Me
 Check out [my website](https://roiiliz.github.io) for more information about my work or [email me](mailto:hunterj32819@gmail.com) if you'd like to get in touch!
