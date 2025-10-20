@@ -5,7 +5,7 @@
 ## Projects
 
 ## Contact Me
-Check out [my website](https://roiiliz.github.io) 
+Check out [my website](https://roiiliz.github.io) for more information about my work or [email me](mailto:hunterj32819@gmail.com) if you'd like to get in touch!
 
 <!--
 **roiiLiz/roiiLiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
