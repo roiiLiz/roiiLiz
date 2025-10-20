@@ -1,11 +1,11 @@
 # Hey, I'm Liz
-
 ## About Me
 Hey, I'm Liz! I am a gameplay programmer and I love to play and make games!
 
 ## Projects
-- [Realm Runner](https://store.steampowered.com/app/3658800/Realm_Runner/): Fast-paced 3D action platformer where you fly through levels at gravity-defying speeds.
-- [OverTime](https://lizroii.itch.io/overtime): 
+- [Realm Runner](https://store.steampowered.com/app/3658800/Realm_Runner/): Fast-paced 3D action platformer where you fly through levels at gravity-defying speeds. Compete for first place at the Microcasm Marathon, and become the titular Realm Runner!
+- [Psychic Beatdown](https://github.com/roiiLiz/PsychicBeatdown): A 2D top-down endless wave "shooter" where the enemies *are* the weapons. Defend yourself using your enemies and their projectiles with your telekinesis magic!
+- [OverTime](https://lizroii.itch.io/overtime): A 2D WarioWare-like where work seems to pile up endlessly! Be the *best* intern and complete as many tasks as you can before your review is over!
 
 ## Contact Me
 Check out [my website](https://roiiliz.github.io) for more information about my work or [email me](mailto:hunterj32819@gmail.com) if you'd like to get in touch!
